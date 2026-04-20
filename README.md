@@ -1,5 +1,5 @@
-<Web Edit By Marghubur Rahman>
-<html lang="Hi">
+<Web Design By Marghubur Rahman>
+<html lang="hi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
